@@ -1,0 +1,9 @@
+[package]
+name = "sand_box"
+version = "0.1.0"
+authors = ["NaokiM03"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]

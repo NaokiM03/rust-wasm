@@ -1,0 +1,9 @@
+[package]
+name = "fibo"
+version = "0.1.0"
+authors = ["NaokiM03"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
